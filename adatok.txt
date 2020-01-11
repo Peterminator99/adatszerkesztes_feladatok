@@ -1,0 +1,12 @@
+Tiny Cox;NY;78,5;75,3;81,0
+Mr. Sackrider;LA;80,2;78,7;83,9
+Ben Dover;Texas;75,0;82,0;77,5
+
+Dr. Ken Hurt;London;65,0;72,0;67,5
+James B Grossweiner;Miami;88,5;85,3;81,0
+
+
+Jack Goff;Denver;85,5;85,3;81,0
+Justin Sider;Portland;63,5;65,3;61,0
+
+Chew Kok;Bangkok;53,5;55,3;51,0
